@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="shere"
+        android:id="@+id/c_shere"
+
+
+        />
+    <item
+        android:title="Dalete"
+        android:id="@+id/c_del"
+
+        />
+    <item
+        android:title="crop"
+        android:id="@+id/c_crop"
+
+        />
+
+</menu>
